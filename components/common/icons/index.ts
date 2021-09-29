@@ -1,0 +1,7 @@
+export { default as HomeIcon } from './home'
+export { default as GroupIcon } from './group'
+export { default as CashIcon } from './cash'
+export { default as UserIcon } from './user'
+export { default as BackCard } from './bankCard'
+export { default as BackIcon } from './back'
+export { default as TrashIcon } from './trash'
